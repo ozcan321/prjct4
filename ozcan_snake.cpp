@@ -1,4 +1,4 @@
-﻿/*201011038  Özcan Özsayın */
+
 
 #include <iostream>
 #include <windows.h>
